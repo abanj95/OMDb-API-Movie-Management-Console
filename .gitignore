@@ -1,0 +1,57 @@
+# Ignore build output folders
+bin/
+obj/
+
+# Ignore user-secrets folder
+**/secrets.json
+
+# Ignore Visual Studio specific files
+.vscode/
+.vs/
+
+# Ignore Rider IDE specific files
+.idea/
+
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Ignore lock files
+project.lock.json
+project.fragment.lock.json
+
+# Ignore package management
+packages/
+*.nupkg
+*.snupkg
+
+# Ignore log and cache files
+*.log
+*.cache
+
+# Ignore compiled dll and pdb files
+*.dll
+*.pdb
+
+# Ignore build artifacts and temporary files
+*.swp
+*.tmp
+
+# Ignore publish output
+publish/
+
+# Ignore node_modules if you have any frontend assets
+node_modules/
+
+# Ignore configuration and environment settings
+appsettings.*.json
+*.env
+
+# Ignore any sensitive information
+.secrets/

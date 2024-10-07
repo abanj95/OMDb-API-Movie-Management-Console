@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OmdbApiService", "OmdbApiService.csproj", "{22B208E6-8E88-4C81-82DC-58F20FC91DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesClient", "..\MoviesClient\MoviesClient.csproj", "{D3E50219-C022-4687-BC73-02EB1AA08CE1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{22B208E6-8E88-4C81-82DC-58F20FC91DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22B208E6-8E88-4C81-82DC-58F20FC91DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22B208E6-8E88-4C81-82DC-58F20FC91DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22B208E6-8E88-4C81-82DC-58F20FC91DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3E50219-C022-4687-BC73-02EB1AA08CE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3E50219-C022-4687-BC73-02EB1AA08CE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3E50219-C022-4687-BC73-02EB1AA08CE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3E50219-C022-4687-BC73-02EB1AA08CE1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B6F4F38-FA90-4EFC-A418-8E4E74F01984}
+	EndGlobalSection
+EndGlobal
