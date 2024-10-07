@@ -1,3 +1,4 @@
+
 ### **OMDb API Movie Management Console**
 
 **Description:**
@@ -7,11 +8,11 @@ This project includes a Web API built with ASP.NET Core for retrieving, caching,
 
 **Key Features:**
 
-OMDb API Integration: Fetch movie details by title, year, or IMDb ID using OMDb's movie database.
-Memory Caching & Persistence: Efficiently cache movie data in memory and persist entries in a MySQL database for quick retrieval and long-term storage.
-Flexible OData Queries: Utilize OData for advanced filtering, sorting, and searching on cached movie data.
-CRUD Operations: Full create, read, update, and delete operations for movie entries through both the API and console application client.
-C# Console Application Client: An interactive console application allowing users to easily manage movie entries through the API.
+- **OMDb API Integration**: Fetch movie details by title, year, or IMDb ID using OMDb's movie database.
+- **Memory Caching & Persistence**: Efficiently cache movie data in memory and persist entries in a MySQL database for quick retrieval and long-term storage.
+- **Flexible OData Queries**: Utilize OData for advanced filtering, sorting, and searching on cached movie data.
+- **CRUD Operations**: Full create, read, update, and delete operations for movie entries through both the API and console application client.
+- **C# Console Application Client**: An interactive console application allowing users to easily manage movie entries through the API.
 
 ---
 
@@ -30,7 +31,7 @@ C# Console Application Client: An interactive console application allowing users
 7. [Endpoints & Functionality](#endpoints--functionality)
 8. [Configuration](#configuration)
 9. [Contributing](#contributing)
-10. [License](#license)
+10. [Connect & Explore More Projects](#connect--explore-more-projects)
 
 ---
 
@@ -161,3 +162,12 @@ C# Console Application Client: An interactive console application allowing users
 5. **Create a Pull Request**: Navigate to the original repo and create a pull request for review.
 
 ---
+
+### **10. Connect & Explore More Projects**
+
+Thank you for checking out this project! If you found it helpful or interesting, please consider giving me a follow on GitHub to stay updated with my latest work. Here are a couple of my other projects you might enjoy:
+
+- [**Auto Pawn Web Application**](https://github.com/abanj95/mula-auto): A comprehensive solution for managing auto pawn transactions, built with modern web technologies such as Vue.js and Vuetify for streamlined operations.
+- [**UNAM Job Portal**](https://github.com/abanj95/Jobunam): A job portal developed for university students using Laravel, providing them with a platform to find employment opportunities and internships.(My final year project 😎)
+
+Feel free to explore these projects, and don't hesitate to reach out if you have any questions or feedback. Your support is greatly appreciated!
