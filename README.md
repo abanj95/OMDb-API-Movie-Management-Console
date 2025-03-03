@@ -64,7 +64,7 @@ This project includes a Web API built with ASP.NET Core for retrieving, caching,
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/OMDb-API-Movie-Management-Console.git
+   git clone https://github.com/abanj95/OMDb-API-Movie-Management-Console.git
    cd OMDb-API-Movie-Management-Console
    ```
 
